@@ -1,7 +1,7 @@
 # Lambda-PL
 
-Polish (PL) Translation for StepMania 5.3 "Lambda"
+Polish (PL) Translation for "Lambda" theme for StepMania 5.x
 
-## 5.3 Recommended
+## OutFox Recommended
 
 StepMania 5.1/5.0.12 includes outdated fallback for pl language, so the translation may be inconsistent in some places.
