@@ -1,4 +1,4 @@
-# Lambda-Rebuid-PL
+# Lambda-Rebuild-PL
 
 Polish (PL) Translation for Outfox theme "Lambda Rebuild"
 
